@@ -1,0 +1,14 @@
+es. 1 parte 2 
+- esempio 2)
+Presenze studenti anno accademico 2021/2022
+"Anno; Mese; Nome; Cognome; N. Matricola; Percentuale presenze"
+"2021; 1; Carlo; Ross; 5154; 85% /n"
+"2021; 1; Rosa; Russo; 5896; 79% /n"
+"2021; 2; Maria; Bianchi; 7895; 95% /n"
+"2021; 4; Gianni; Amato; 4517; 87% /n"
+"2021; 5; Marco; Mariani; 1287; 90% /n"
+"2022; 1; Cecilia; Augusti; 8597; 62% /n"
+"2022; 2; Marco; Giustini; 2917; 80% /n"
+"2022; 3; Luca; Luciani; 6614; 92% /n"
+"2022; 6; Anna; Nucci; 3891; 75% /n"
+"202; 7; Calogero; Neri; 9127; 22%"
